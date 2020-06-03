@@ -1,6 +1,6 @@
 # SUJET4
 
-https://github.com/lsl3468a/SUJET4
+https://github.com/lsl3468a/SUJET4.git
 
 LASSERRE Ludivine et ALEXIS Mélina
 
